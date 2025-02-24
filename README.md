@@ -59,7 +59,7 @@ The email settings for ticketing were successfully configured to enable osTicket
 
 </p>
 <p>
-Ticketing categories and departments were successfully set up to streamline ticket management. New departments (e.g., Sales, IT Support, Billing) were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were configured in Manage > Ticket Forms to ensure proper routing. Each department was assigned a mailbox for ticket creation, and permissions were set to control access to specific departments, enhancing the efficiency and structure of the helpdesk operations.
+Ticketing categories and departments were successfully set up to streamline ticket management. New departments (e.g., Sales, IT Support, Billing) were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were configured in Manage > Help Topics to ensure proper routing. New SLA's were arranged in Manage > SLA  for each ticket category. Each department was assigned a mailbox for ticket creation, and permissions were set to control access to specific departments, enhancing the efficiency and structure of the helpdesk operations.
 
 </p>
 <br />
