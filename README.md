@@ -68,8 +68,9 @@ Ticket categories and departments were successfully set up to make managing tick
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/12a7394a-ffe1-4214-be76-c40cadf29be0)
+![image](https://github.com/user-attachments/assets/aeb91b7d-3154-4dae-9ec8-51991112c3ff)
 ![image](https://github.com/user-attachments/assets/b2e2894f-d1bf-4b69-be99-a93e593fd981)
-
 
 </p>
 <p>
