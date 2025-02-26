@@ -86,7 +86,7 @@ Agent and admin user accounts were successfully created to help manage the syste
 </p>
 <p>
 
-Security measures were successfully put in place to protect data and ensure the system runs smoothly. A backup routine for the database and files was set up using backup scripts and manual exports to keep ticket data safe. osTicket was configured to automatically receive updates for security patches, and the system was checked for new versions under Admin Panel > Settings > Version. File and folder permissions were reviewed and set up correctly, especially for the attachments, include, and upload folders, to prevent unauthorized access and data loss, ensuring the long-term safety of the osTicket system.
+Security measures were put in place to protect the data and make sure the system runs smoothly. A backup routine for the database and files was set up using backup scripts and manual exports to keep ticket data safe. osTicket was set to automatically receive updates for security patches, and the system was checked for new versions under Admin Panel > Settings > Version. File and folder permissions were reviewed and correctly configured, especially for the attachments, include, and upload folders, to prevent unauthorized access and data loss, ensuring the long-term safety of the osTicket system.
 
 </p>
 <br />
