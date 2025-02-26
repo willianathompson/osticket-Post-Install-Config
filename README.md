@@ -63,7 +63,7 @@ The email settings for ticketing were successfully set up to allow osTicket to s
 </p>
 <p>
   
-Ticket categories and departments were successfully set up to make managing tickets easier. New departments, like Sales, IT Support, and Billing, were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were added under Manage > Help Topics to make sure tickets are routed correctly. New SLA's (Service Level Agreements) were set up in Manage > SLA for each ticket category. Each department was given a mailbox for ticket creation, and permissions were set to control access to specific departments, making the helpdesk operations more organized and efficient.
+Ticket categories and departments were successfully set up to make managing tickets easier. New departments, like Sales, IT Support, and Billing, were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were added under Manage > Help Topics to make sure tickets are routed correctly. New SLA's (Service Level Agreements) were set up in Manage > SLA for each ticket category. A central inbox was set up for the support team to access all tickets, and permissions were configured to control access to specific departments, making the helpdesk operations more organized and efficient.
 
 </p>
 <br />
