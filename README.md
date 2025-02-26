@@ -56,6 +56,10 @@ The email settings for ticketing were successfully set up to allow osTicket to s
   
 ![image](https://github.com/user-attachments/assets/8121394a-917b-4cbf-8a99-5f79ca49d6d5)
 
+![image](https://github.com/user-attachments/assets/cd7f3612-02bf-48cd-98a7-560466cd6352)
+
+![image](https://github.com/user-attachments/assets/1fa61ce9-5eef-45d1-8597-52e9e03dc70d)
+
 </p>
 <p>
   
