@@ -38,7 +38,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 </p>
 <p>
-The setup folder was deleted from the osTicket installation directory (C:\inetpub\wwwroot\osticket) to prevent unauthorized access to the installation scripts and enhance system security.
+  
+The setup folder was deleted from the osTicket installation directory (C:\inetpub\wwwroot\osticket) to stop unauthorized access to the installation files and improve system security.
 
 </p>
 <br />
@@ -48,7 +49,8 @@ The setup folder was deleted from the osTicket installation directory (C:\inetpu
 ![image](https://github.com/user-attachments/assets/80b01596-eabc-47be-98ae-2e88c25e7a7c)
 </p>
 <p>
-The email settings for ticketing were successfully configured to enable osTicket to send and receive email notifications. SMTP was set up under Admin Panel > Settings > Email for outgoing emails, and email addresses were configured in Admin Panel > Settings > Mailboxes to receive incoming tickets. Auto-response settings were also configured to ensure customers receive acknowledgment emails upon ticket creation, facilitating seamless communication between the support team and customers.
+  
+The email settings for ticketing were successfully set up to allow osTicket to send and receive email notifications. SMTP (Simple Mail Transfer Protocol) was configured under Admin Panel > Settings > Email for outgoing emails, and email addresses were added under Admin Panel > Settings > Mailboxes to receive incoming tickets. Auto-response settings were also enabled so that customers receive confirmation emails when a ticket is created, making communication between the support team and customers smooth.
 
 </p>
 <br />
@@ -59,7 +61,8 @@ The email settings for ticketing were successfully configured to enable osTicket
 
 </p>
 <p>
-Ticketing categories and departments were successfully set up to streamline ticket management. New departments (e.g., Sales, IT Support, Billing) were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were configured in Manage > Help Topics to ensure proper routing. New SLA's were arranged in Manage > SLA  for each ticket category. Each department was assigned a mailbox for ticket creation, and permissions were set to control access to specific departments, enhancing the efficiency and structure of the helpdesk operations.
+  
+Ticket categories and departments were successfully set up to make managing tickets easier. New departments, like Sales, IT Support, and Billing, were created under Admin Panel > Manage > Departments, and ticket categories with custom fields were added under Manage > Help Topics to make sure tickets are routed correctly. New SLA's (Service Level Agreements) were set up in Manage > SLA for each ticket category. Each department was given a mailbox for ticket creation, and permissions were set to control access to specific departments, making the helpdesk operations more organized and efficient.
 
 </p>
 <br />
@@ -69,7 +72,8 @@ Ticketing categories and departments were successfully set up to streamline tick
 
 </p>
 <p>
-Agent and admin user accounts were successfully created to manage the system efficiently. New agent accounts were set up under Admin Panel > Manage > Staff, with appropriate permissions assigned for accessing specific departments, managing tickets, and viewing reports. Roles (Admin, Agent, etc.) were assigned to ensure each user had the correct level of access, enabling agents to provide support and admins to configure and manage the system.
+  
+Agent and admin user accounts were successfully created to help manage the system. New agent accounts were set up under Admin Panel > Manage > Staff, with the right permissions given to access specific departments, manage tickets, and view reports. Different roles, like Admin and Agent, were assigned to make sure each user had the right level of access, allowing agents to provide support and admins to configure and manage the system.
 
 </p>
 <br />
@@ -79,7 +83,8 @@ Agent and admin user accounts were successfully created to manage the system eff
 
 </p>
 <p>
-Security measures were successfully implemented to ensure data integrity and system reliability. A routine for database and file backups was set up using backup scripts and manual exports to protect ticket data. osTicket was configured to receive automatic updates for security patches, and the system was checked for new versions under Admin Panel > Settings > Version. File and folder permissions were reviewed and configured properly, particularly for the attachments, include, and upload directories, to prevent unauthorized access and data loss, ensuring long-term safety of the osTicket system.
+
+Security measures were successfully put in place to protect data and ensure the system runs smoothly. A backup routine for the database and files was set up using backup scripts and manual exports to keep ticket data safe. osTicket was configured to automatically receive updates for security patches, and the system was checked for new versions under Admin Panel > Settings > Version. File and folder permissions were reviewed and set up correctly, especially for the attachments, include, and upload folders, to prevent unauthorized access and data loss, ensuring the long-term safety of the osTicket system.
 
 </p>
 <br />
