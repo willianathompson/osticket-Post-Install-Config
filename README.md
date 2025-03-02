@@ -29,6 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 </p>
+<h4>Delete the setup Folder</h4>
 
 ![image](https://github.com/user-attachments/assets/5bcc841a-6a2b-4e08-9ca2-37e884751962)
 
@@ -36,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   
-The setup folder was deleted from the osTicket installation directory (C:\inetpub\wwwroot\osticket) to stop unauthorized access to the installation files and improve system security.
+The setup folder is deleted from the osTicket installation directory (C:\inetpub\wwwroot\osticket) to prevent unauthorized access to the installation files and improve system security.
 
 </p>
 <br />
@@ -46,6 +47,7 @@ The setup folder was deleted from the osTicket installation directory (C:\inetpu
 ![image](https://github.com/user-attachments/assets/80b01596-eabc-47be-98ae-2e88c25e7a7c)
 </p>
 <p>
+<h4>Configure Email Settings for Ticketing</h4>
   
 The email settings for ticketing were successfully set up to allow osTicket to send and receive email notifications. SMTP (Simple Mail Transfer Protocol) was configured under Admin Panel > Settings > Email for outgoing emails, and email addresses were added under Admin Panel > Settings > Mailboxes to receive incoming tickets. Auto-response settings were also enabled so that customers receive confirmation emails when a ticket is created, making communication between the support team and customers smooth.
 
@@ -53,6 +55,7 @@ The email settings for ticketing were successfully set up to allow osTicket to s
 <br />
 
 <p>
+<h4>Set Up Ticketing Categories and Departments</h4>
   
 ![image](https://github.com/user-attachments/assets/8121394a-917b-4cbf-8a99-5f79ca49d6d5)
 
@@ -67,6 +70,7 @@ Ticket categories and departments were successfully set up to make managing tick
 
 </p>
 <br />
+<h4>Create Agent and Admin User Accounts</h4>
 
 ![image](https://github.com/user-attachments/assets/12a7394a-ffe1-4214-be76-c40cadf29be0)
 ![image](https://github.com/user-attachments/assets/aeb91b7d-3154-4dae-9ec8-51991112c3ff)
@@ -79,6 +83,7 @@ Agent and admin user accounts were successfully created to help manage the syste
 
 </p>
 <br />
+<h4>Set Up Security Measures (Backup and Updates)</h4>
 
 ![image](https://github.com/user-attachments/assets/4f359c74-dd9c-4ee4-b9be-fd299b646db7)
 ![image](https://github.com/user-attachments/assets/cb2db211-49e6-4ca7-a609-9bd8748dfda4)
@@ -93,3 +98,4 @@ Security measures were put in place to protect the data and make sure the system
 
 
 
+[osTicket: Ticket Lifecycle Examples](https://github.com/willianathompson/osticket-lifecycle)
