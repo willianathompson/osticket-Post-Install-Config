@@ -50,7 +50,7 @@ The setup folder is deleted from the osTicket installation directory (C:\inetpub
 </p>
 
   
-The email settings for ticketing were successfully set up to allow osTicket to send and receive email notifications. SMTP (Simple Mail Transfer Protocol) was configured under Admin Panel > Settings > Email for outgoing emails, and email addresses were added under Admin Panel > Settings > Mailboxes to receive incoming tickets. Auto-response settings were also enabled so that customers receive confirmation emails when a ticket is created, making communication between the support team and customers smooth.
+The email settings for ticketing are set up to allow osTicket to send and receive email notifications. All help desk tickets come through a shared inbox, where tickets can be claimed or assigned to another member of the support team or system administrator. SMTP (Simple Mail Transfer Protocol) is configured under Admin Panel > Settings > Email for outgoing emails, and auto-response settings are enabled so that customers receive confirmation emails when a ticket is created, ensuring smooth communication between the support team and customers.
 
 </p>
 <br />
