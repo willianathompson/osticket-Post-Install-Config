@@ -111,12 +111,20 @@ Different roles, such as Admin and Agent, are assigned to ensure each user has t
 <h4>Set Up Security Measures (Backup and Updates)</h4>
 
 ![image](https://github.com/user-attachments/assets/4f359c74-dd9c-4ee4-b9be-fd299b646db7)
+
+</p>
+<p>
+It’s important to periodically check for updates. osTicket automatically receives security updates, and the system is checked for new versions under Admin Panel > Settings > Version.
+</p>
+<p>
+
 ![image](https://github.com/user-attachments/assets/cb2db211-49e6-4ca7-a609-9bd8748dfda4)
 
 </p>
 <p>
-
-Security measures were put in place to protect the data and make sure the system runs smoothly. A backup routine for the database and files was set up using backup scripts and manual exports to keep ticket data safe. osTicket was set to automatically receive updates for security patches, and the system was checked for new versions under Admin Panel > Settings > Version. File and folder permissions were reviewed and correctly configured, especially for the attachments, include, and upload folders, to prevent unauthorized access and data loss, ensuring the long-term safety of the osTicket system.
+File and folder permissions are set to prevent unauthorized access and data loss, particularly for critical folders like attachments, include, and upload. These settings ensure only authorized users can access sensitive files, keeping the osTicket system secure.
+</p>
+<p>
 
 </p>
 <br />
