@@ -50,7 +50,8 @@ The setup folder is deleted from the osTicket installation directory (C:\inetpub
 
 </p>
 <p>
-The email settings for ticketing are set up to allow osTicket to send and receive email notifications. All help desk tickets come through a shared inbox, where tickets can be claimed or assigned to another member of the support team or system administrator. SMTP (Simple Mail Transfer Protocol) is configured under Admin Panel > Settings > Email for outgoing emails, and auto-response settings are enabled so that customers receive confirmation emails when a ticket is created, ensuring smooth communication between the support team and customers.
+  
+The email settings for ticketing are set up to allow osTicket to send and receive email notifications. All help desk tickets come through a shared inbox, where tickets can be claimed or assigned to another member of the support team or system administrator. SMTP (Simple Mail Transfer Protocol) is configured under **Admin Panel > Settings > Email** for outgoing emails, and auto-response settings are enabled so that customers receive confirmation emails when a ticket is created, ensuring smooth communication between the support team and customers.
 </p>
 <p>
 
@@ -63,7 +64,8 @@ The email settings for ticketing are set up to allow osTicket to send and receiv
 
 </p>
 <p>
-New departments like Sales, IT Support, and Billing can be created under Admin Panel > Manage > Departments. This helps the helpdesk system organize and send tickets to the right teams. A main inbox is set up for the support team to see all incoming tickets. Also, permissions are set so that only the right team members can see or manage tickets for their department. This setup makes communication easier and improves the support process.
+  
+New departments like Sales, IT Support, and Billing can be created under **Admin Panel > Manage > Departments**. This helps the helpdesk system organize and send tickets to the right teams. A main inbox is set up for the support team to see all incoming tickets. Also, permissions are set so that only the right team members can see or manage tickets for their department. This setup makes communication easier and improves the support process.
 </p>
 <p>
   
@@ -71,7 +73,8 @@ New departments like Sales, IT Support, and Billing can be created under Admin P
 
 </p>
 <p>
-Ticket categories with custom fields are added under Admin Panel > Manage > Help Topics. These categories help classify tickets based on their nature (e.g., technical support, billing inquiry, etc.), ensuring they are routed to the appropriate team. Custom fields are configured to collect specific information from customers when they create a ticket, providing the support team with more context and enabling faster issue resolution. This system ensures that all tickets are properly sorted and efficiently handled.
+  
+Ticket categories with custom fields are added under **Admin Panel > Manage > Help Topics**. These categories help classify tickets based on their nature (e.g., technical support, billing inquiry, etc.), ensuring they are routed to the appropriate team. Custom fields are configured to collect specific information from customers when they create a ticket, providing the support team with more context and enabling faster issue resolution. This system ensures that all tickets are properly sorted and efficiently handled.
 </p>
 <p>
 
@@ -79,7 +82,8 @@ Ticket categories with custom fields are added under Admin Panel > Manage > Help
 
 </p>
 <p>
-New SLAs (Service Level Agreements) are set up in Admin Panel > Manage > SLA for each ticket category. These SLAs define the response and resolution times for different types of tickets, helping the support team meet expectations and maintain service quality. SLAs are aligned with business priorities, so critical issues are addressed promptly, while less urgent tickets are given the appropriate attention. By setting up SLAs, you can track performance and ensure that the support team meets agreed-upon standards, maintaining a high level of customer satisfaction.
+  
+New SLAs (Service Level Agreements) are set up in **Admin Panel > Manage > SLA** for each ticket category. These SLAs define the response and resolution times for different types of tickets, helping the support team meet expectations and maintain service quality. SLAs are aligned with business priorities, so critical issues are addressed promptly, while less urgent tickets are given the appropriate attention. By setting up SLAs, you can track performance and ensure that the support team meets agreed-upon standards, maintaining a high level of customer satisfaction.
 </p>
 <p>
 
@@ -93,7 +97,8 @@ New SLAs (Service Level Agreements) are set up in Admin Panel > Manage > SLA for
 
 </p>
 <p>
-Agent and admin user accounts are created to help manage the system. New agent accounts are set up under Admin Panel > Manage > Staff, with the appropriate permissions assigned to access specific departments, manage tickets, and view reports. 
+  
+Agent and admin user accounts are created to help manage the system. New agent accounts are set up under **Admin Panel > Manage > Staff**, with the appropriate permissions assigned to access specific departments, manage tickets, and view reports. 
 </p>
 <p>
 
@@ -114,7 +119,8 @@ Different roles, such as Admin and Agent, are assigned to ensure each user has t
 
 </p>
 <p>
-It’s important to periodically check for updates. osTicket automatically receives security updates, and the system is checked for new versions under Admin Panel > Settings > Version.
+  
+It’s important to periodically check for updates. osTicket automatically receives security updates, and the system is checked for new versions under **Admin Panel > Settings > Version**.
 </p>
 <p>
 
