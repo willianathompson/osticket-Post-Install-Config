@@ -131,7 +131,7 @@ It’s important to periodically check for updates. osTicket automatically recei
 File and folder permissions are set to prevent unauthorized access and data loss, particularly for critical folders like attachments, include, and upload. These settings ensure only authorized users can access sensitive files, keeping the osTicket system secure.
 </p>
 <p>
-The osTicket configuration is now complete. Use the link below to access the ticket lifecycle features.
+The osTicket configuration is now complete. Use the link below to access the osTicket lifecycle features.
 </p>
 <br />
 
